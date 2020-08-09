@@ -20,3 +20,11 @@
   -	Repetir el procedimiento de Git, pero usando Github desktop.
   -	Explicar flujo de un trabajo colaborativo utilizando Github desktop con 2 ramas.
   -	Explicar flujo de trabajo colaborativo en 1 mismo archivo.
+  
+  
+  ### REQUISITOS:
+  1. Descargar Git
+  https://git-scm.com/downloads
+  
+  2. Descargar Github Desktop
+  https://desktop.github.com/
