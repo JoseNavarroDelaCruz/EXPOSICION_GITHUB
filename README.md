@@ -28,3 +28,5 @@
   
   2. Descargar Github Desktop
   https://desktop.github.com/
+  
+ 3. [Descargar Github Linux](https://github.com/shiftkey/desktop)
