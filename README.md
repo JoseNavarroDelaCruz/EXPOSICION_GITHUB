@@ -23,10 +23,8 @@
   
   
   ### REQUISITOS:
-  1. [Descargar Git]
-  https://git-scm.com/downloads
+ 1. [Descargar Git](https://git-scm.com/downloads)
   
-  2. [Descargar Github Desktop]
-  https://desktop.github.com/
+  2. [Descargar Github Desktop](https://desktop.github.com/ )
   
  3. [Descargar Github Linux](https://github.com/shiftkey/desktop)
