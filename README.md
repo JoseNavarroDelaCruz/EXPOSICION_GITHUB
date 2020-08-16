@@ -20,8 +20,9 @@
 4.	Github desktop
   -	Repetir el procedimiento de Git, pero usando Github desktop. **(Jose 15 min)**
   -	Explicar flujo de un trabajo colaborativo utilizando Github desktop con 2 ramas. **(Jose y jhonattan_enfatizar el merge y poner colaboradores (20 min))**
-  -	Explicar flujo de trabajo colaborativo en 1 mismo archivo. **(Jose y Karen 15 min)**
-  . ** TIEMPO ESTIMADO: 1 hora y 40 min **
+  -	Explicar flujo de trabajo colaborativo en 1 mismo archivo. **(Jose y Karen 15 min)**.  
+  .
+  ** TIEMPO ESTIMADO: 1 hora y 40 min **
   
   ### REQUISITOS:
  1. [Descargar Git](https://git-scm.com/downloads)
