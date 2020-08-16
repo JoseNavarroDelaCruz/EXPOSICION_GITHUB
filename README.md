@@ -29,13 +29,11 @@
   2. [Descargar Github Desktop](https://desktop.github.com/ )
   
  3. [Descargar Github Linux](https://github.com/shiftkey/desktop)
- 
- ### 
- 
- 
- 
+  
  ### TAREAS ESPECIFICAS
- 1. Compartir la presentación que tenga la info inicial y las capturas de pantalla de los procedimientos siguientes. **Maximo Domingo**
+ 1. Enviar al grupo lo que deben descargar antes de la presentación, preferiblemente el instalador. Y resolver alguna duda de los chicos. **(Jose)**
+ 2. Mencionarle al menos un dia anterior a los chicos que deben tener a la mano 3 archivos de R o de Python. **(Jose)**
+ 3. Compartir la presentación que tenga la info inicial y las capturas de pantalla de los procedimientos siguientes. **Maximo Domingo (Jhonattan & Karen)**
  
  
  
